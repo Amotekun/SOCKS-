@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "amotekun.h": "c",
+        "utils.h": "c",
+        "socks.h": "c",
+        "stdint.h": "c",
+        "cstdint": "c"
+    }
+}
+// {
+//     "files.associations": {
+//         "utils.h": "c",
+//         "cstdlib": "c",
+//         "stdio.h": "c",
+//         "inet.h": "c",
+//         "amotekun.h": "c",
+//         "in.h": "c"
+//     }
+// }
