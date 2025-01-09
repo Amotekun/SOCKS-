@@ -1,1 +1,8 @@
+# Ignore object files
 *.o
+
+# Ignore the amotekun executable
+amotekun
+
+# Ignore the .vscode folder
+.vscode/
